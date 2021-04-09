@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="14ca1827-dee5-4bd5-a241-79c161d50b9e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/frontend_plus" />
+  </component>
+  <component name="ProjectId" id="1qsJ1ZnsyNHL58sJq24IcTi16fc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/backend/kindaAuth" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\жопа\PycharmProjects\MyProject\backend\kindaAuth" />
+      <recent name="C:\Users\жопа\PycharmProjects\MyProject\frontend_plus\src" />
+      <recent name="C:\Users\жопа\PycharmProjects\MyProject\frontend_plus\src\components" />
+      <recent name="C:\Users\жопа\PycharmProjects\MyProject\frontend_plus\src\store" />
+      <recent name="C:\Users\жопа\PycharmProjects\MyProject\frontend_plus\src\api" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\жопа\PycharmProjects\MyProject\frontend\src" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="14ca1827-dee5-4bd5-a241-79c161d50b9e" name="Default Changelist" comment="" />
+      <created>1617862150136</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617862150136</updated>
+      <workItem from="1617862153170" duration="56000" />
+      <workItem from="1617864872342" duration="6738000" />
+      <workItem from="1617871788713" duration="505000" />
+      <workItem from="1617872318382" duration="1803000" />
+      <workItem from="1617874487992" duration="51689000" />
+      <workItem from="1617927666115" duration="17872000" />
+      <workItem from="1617945726176" duration="2988000" />
+      <workItem from="1617948753646" duration="5877000" />
+      <workItem from="1617954946108" duration="6127000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="730" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1617886230305">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="730" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1617886230305" />
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1617871828859">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1617871828859" />
+    <state x="739" y="261" key="FileChooserDialogImpl" timestamp="1617862167572">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1617862167572" />
+    <state width="196" height="457" key="HiddenNamespacesPopup" timestamp="1617897483299">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="196" height="457" key="HiddenNamespacesPopup/0.0.1920.1040@0.0.1920.1040" timestamp="1617897483299" />
+    <state x="667" y="255" width="585" height="530" key="find.popup" timestamp="1617882963511">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="255" width="585" height="530" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1617882963511" />
+  </component>
+</project>
